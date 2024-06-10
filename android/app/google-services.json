@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593470625300",
+    "project_id": "tugasmp-a1eda",
+    "storage_bucket": "tugasmp-a1eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593470625300:android:5ba936317966145715b901",
+        "android_client_info": {
+          "package_name": "com.example.tugas_input_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593470625300-sk84nt3hdqdai0j409mo0iv97a0q3vjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrF7dMgoOmaiyd0CjhhqMBCULWBDOHFyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593470625300-sk84nt3hdqdai0j409mo0iv97a0q3vjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
